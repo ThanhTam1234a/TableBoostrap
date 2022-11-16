@@ -1,0 +1,22 @@
+
+.btn.btn-default{
+    background-color: green;
+    color: green;
+    height: 50%;
+}
+.fa-solid.fa-plus{
+    background-color:white;
+}
+table td, .table th{   
+   vertical-align: middle;
+}
+img, svg{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}   
+.title{
+    background-color:rgb(44, 158, 230);
+    text-align: center;
+    color: white;
+}
